@@ -106,7 +106,7 @@ Wait for acceptance → Attend appointment → View notes
 
 ### Doctor Flow:
 Login → Check pending requests → Accept/Reject →  
-See today’s accepted appointments → Add notes/prescription
+See today’s accepted appointments → Add notes/prescriptions
 
 ### Admin Flow:
 Create doctors → Provide credentials → Manage doctor/patient accounts
